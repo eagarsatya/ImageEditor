@@ -1,302 +1,622 @@
 [
- {
-   "Name": "Stephanie",
-   "Kelompok": 1,
-   "Kamar": "Yosep - 202"
- },
- {
-   "Name": "Novianti Bunardi",
-   "Kelompok": 1,
-   "Kamar": "Yosep - 201"
- },
- {
-   "Name": "Jessica Fidela",
-   "Kelompok": 1,
-   "Kamar": "Yosep - 201"
- },
- {
-   "Name": "Veronica Lina",
-   "Kelompok": 1,
-   "Kamar": "Yosep - 202"
- },
- {
-   "Name": "Cendy Lupita",
-   "Kelompok": 2,
-   "Kamar": "Yosep - 103"
- },
- {
-   "Name": "Novia Uly Siregar",
-   "Kelompok": 2,
-   "Kamar": "Yosep - 103"
- },
- {
-   "Name": "Monica Gita Noverry",
-   "Kelompok": 2,
-   "Kamar": "Yosep - 104"
- },
- {
-   "Name": "Gabriela",
-   "Kelompok": 2,
-   "Kamar": "Yosep - 104"
- },
- {
-   "Name": "Priska",
-   "Kelompok": 3,
-   "Kamar": "Yosep - 105"
- },
- {
-   "Name": "Maria Hermawati Sihotang",
-   "Kelompok": 3,
-   "Kamar": "Yosep - 105"
- },
- {
-   "Name": "Ivana Sari",
-   "Kelompok": 3,
-   "Kamar": "Yosep - 106"
- },
- {
-   "Name": "Hannah",
-   "Kelompok": 4,
-   "Kamar": "Yosep - 106"
- },
- {
-   "Name": "Agatha Sekar",
-   "Kelompok": 4,
-   "Kamar": "Yosep - 107"
- },
- {
-   "Name": "Brigitta Merylla",
-   "Kelompok": 4,
-   "Kamar": "Yosep - 107"
- },
- {
-   "Name": "Asterina Kris Alviani",
-   "Kelompok": 5,
-   "Kamar": "Yosep - 108"
- },
- {
-   "Name": "Stevania Nona Erlin",
-   "Kelompok": 5,
-   "Kamar": "Yosep - 108"
- },
- {
-   "Name": "Theresia Meidiana Santoso",
-   "Kelompok": 5,
-   "Kamar": "Yosep - 109"
- },
- {
-   "Name": "Michelle Naomi Tosani",
-   "Kelompok": 5,
-   "Kamar": "Yosep - 109"
- },
- {
-   "Name": "Bernadette Marcia Wibowo",
-   "Kelompok": 6,
-   "Kamar": "Yosep - 111"
- },
- {
-   "Name": "Zehna da Cunha",
-   "Kelompok": 6,
-   "Kamar": "Yosep - 111"
- },
- {
-   "Name": "Angela Lazuardi",
-   "Kelompok": 6,
-   "Kamar": "Yosep - 112"
- },
- {
-   "Name": "Adenia Colin",
-   "Kelompok": 7,
-   "Kamar": "Yosep - 114"
- },
- {
-   "Name": "Sonia Angel Agustin",
-   "Kelompok": 7,
-   "Kamar": "Yosep - 114"
- },
- {
-   "Name": "Felicia Tandiono",
-   "Kelompok": 7,
-   "Kamar": "Yosep - 116"
- },
- {
-   "Name": "Marvella Beatrice",
-   "Kelompok": 7,
-   "Kamar": "Yosep - 115"
- },
- {
-   "Name": "Anastasia Novi Aliantika",
-   "Kelompok": 8,
-   "Kamar": "Yosep - 112"
- },
- {
-   "Name": "Eugenia Isadora",
-   "Kelompok": 8,
-   "Kamar": "Yosep - 113"
- },
- {
-   "Name": "Josephine Savitri Dinarbrata",
-   "Kelompok": 8,
-   "Kamar": "Yosep - 113"
- },
- {
-   "Name": "Karyn Sunjoyo",
-   "Kelompok": 9,
-   "Kamar": "Yosep - 115"
- },
- {
-   "Name": "Cecillia Delvina Setiawan",
-   "Kelompok": 9,
-   "Kamar": "Yosep - 117"
- },
- {
-   "Name": "Catherina Delvita Setiawan",
-   "Kelompok": 9,
-   "Kamar": "Yosep - 117"
- },
- {
-   "Name": "Delicia Potan",
-   "Kelompok": 9,
-   "Kamar": "Yosep - 116"
- },
- {
-   "Name": "Klaudia Sartika Dabur ",
-   "Kelompok": 10,
-   "Kamar": "Yosep - 118"
- },
- {
-   "Name": "Sherlene Octitus",
-   "Kelompok": 10,
-   "Kamar": "Yosep - 118"
- },
- {
-   "Name": "Tiara Munthe",
-   "Kelompok": 10,
-   "Kamar": "Yosep - 203"
- },
- {
-   "Name": "Jessica Claudia bok",
-   "Kelompok": 10,
-   "Kamar": "Yosep - 203"
- },
- {
-   "Name": "Geanessa Lodea Franzella",
-   "Kelompok": 11,
-   "Kamar": "Yosep - 101"
- },
- {
-   "Name": "Gishenny Issabel Santoso",
-   "Kelompok": 11,
-   "Kamar": "Yosep - 101"
- },
- {
-   "Name": "Tricia Augustitus Suciawan",
-   "Kelompok": 11,
-   "Kamar": "Yosep - 102"
- },
- {
-   "Name": "Elizabeth Nikita Tjoputera",
-   "Kelompok": 11,
-   "Kamar": "Yosep - 119"
- },
- {
-   "Name": "Yerusha Virstly S.",
-   "Kelompok": 11,
-   "Kamar": "Yosep - 119"
- },
- {
-   "Name": "Stefanus Jefry",
-   "Kelompok": 12,
-   "Kamar": "Yosep - 217"
- },
- {
-   "Name": "Stevano",
-   "Kelompok": 12,
-   "Kamar": "Yosep - 217"
- },
- {
-   "Name": "Markus Yohanes",
-   "Kelompok": 13,
-   "Kamar": "Yosep - 218"
- },
- {
-   "Name": "Lias Mates",
-   "Kelompok": 13,
-   "Kamar": "Yosep - 218"
- },
- {
-   "Name": "Marco",
-   "Kelompok": 13,
-   "Kamar": "Yosep - 216"
- },
- {
-   "Name": "Christevan Destitus",
-   "Kelompok": 14,
-   "Kamar": "Yosep - 211"
- },
- {
-   "Name": "Eagar Satya",
-   "Kelompok": 14,
-   "Kamar": "Yosep - 211"
- },
- {
-   "Name": "Agustinus Billie Leonardo S.",
-   "Kelompok": 14,
-   "Kamar": "Yosep - 216"
- },
- {
-   "Name": "Foriansyah",
-   "Kelompok": 15,
-   "Kamar": "Yosep - 213"
- },
- {
-   "Name": "Michael",
-   "Kelompok": 15,
-   "Kamar": "Yosep - 212"
- },
- {
-   "Name": "Kris Josua Boyma Napitupulu",
-   "Kelompok": 15,
-   "Kamar": "Yosep - 212"
- },
- {
-   "Name": "Henrico",
-   "Kelompok": 16,
-   "Kamar": "Yosep - 213"
- },
- {
-   "Name": "Christian Saputra",
-   "Kelompok": 16,
-   "Kamar": "Yosep - 215"
- },
- {
-   "Name": "Christian Karuna",
-   "Kelompok": 17,
-   "Kamar": "Yosep - 214"
- },
- {
-   "Name": "Marvel Excel Dermawan",
-   "Kelompok": 17,
-   "Kamar": "Yosep - 214"
- },
- {
-   "Name": "Valentino Stefanus",
-   "Kelompok": 17,
-   "Kamar": "Yosep - 219"
- },
- {
-   "Name": "Alvieuro Delvino Libye",
-   "Kelompok": 18,
-   "Kamar": "Yosep - 210"
- },
- {
-   "Name": "Melvin Bryan",
-   "Kelompok": 18,
-   "Kamar": "Yosep - 210"
- },
- {
-   "Name": "Nathanael Austin",
-   "Kelompok": 18,
-   "Kamar": "Yosep - 219"
- }
+  {
+    "Name": "Dinda",
+    "Kelompok": "04",
+    "Kamar": "Cendrawasih-1-111"
+  },
+  {
+    "Name": "Regina Jovita Wibowo",
+    "Kelompok": "01",
+    "Kamar": "Cendrawasih-1-108"
+  },
+  {
+    "Name": "Giovanni Patricia",
+    "Kelompok": "02",
+    "Kamar": "Cendrawasih-1-110"
+  },
+  {
+    "Name": "Ivan Antonius Mongan",
+    "Kelompok": "15",
+    "Kamar": "Jalak Bali-2-217"
+  },
+  {
+    "Name": "Maria Ireina Polimpung",
+    "Kelompok": "05",
+    "Kamar": "Manyar-1-123"
+  },
+  {
+    "Name": "Teresa Carmelia",
+    "Kelompok": "05",
+    "Kamar": "Manyar-1-124"
+  },
+  {
+    "Name": "Dave Kenny Anthony",
+    "Kelompok": "16",
+    "Kamar": "Kutilang-2-212"
+  },
+  {
+    "Name": "Evania Joycelin A",
+    "Kelompok": "03",
+    "Kamar": "Manyar-1-122"
+  },
+  {
+    "Name": "David Ovaldo Servus",
+    "Kelompok": "16",
+    "Kamar": "Kutilang-2-207"
+  },
+  {
+    "Name": "Yohana Febrianti Mulia",
+    "Kelompok": "03",
+    "Kamar": "Manyar-1-122"
+  },
+  {
+    "Name": "Odilia Angeline Jofan Wijaya",
+    "Kelompok": "03",
+    "Kamar": "Manyar-1-121"
+  },
+  {
+    "Name": "Laurentsia Kristiana",
+    "Kelompok": "10",
+    "Kamar": "Cendrawasih-1-107"
+  },
+  {
+    "Name": "Anastasia Novi",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-204"
+  },
+  {
+    "Name": "Darryl Winston",
+    "Kelompok": "12",
+    "Kamar": "Jalak Bali-2-214"
+  },
+  {
+    "Name": "Eagar Satya",
+    "Kelompok": "14",
+    "Kamar": "Kutilang-2-208"
+  },
+  {
+    "Name": "Dimas satya Kusuma",
+    "Kelompok": "14",
+    "Kamar": "Jalak Bali-2-217"
+  },
+  {
+    "Name": "Bernadeta Santhi",
+    "Kelompok": "08",
+    "Kamar": "Manyar-1-118"
+  },
+  {
+    "Name": "Mega Lukita Wijaya",
+    "Kelompok": "06",
+    "Kamar": "Manyar-1-120"
+  },
+  {
+    "Name": "Lusia Tungadi",
+    "Kelompok": "10",
+    "Kamar": "Cendrawasih-1-103"
+  },
+  {
+    "Name": "Yohanes Evan Kanindio",
+    "Kelompok": "14",
+    "Kamar": "Jalak Bali-2-215"
+  },
+  {
+    "Name": "Sesilia yovani kurnia puteri saragih",
+    "Kelompok": "03",
+    "Kamar": "Manyar-1-121"
+  },
+  {
+    "Name": "Kristina",
+    "Kelompok": "10",
+    "Kamar": "Cendrawasih-1-104"
+  },
+  {
+    "Name": "Leonardo effendy",
+    "Kelompok": "13",
+    "Kamar": "Kutilang-2-206"
+  },
+  {
+    "Name": "Maximilianus Raymond Kusnadi",
+    "Kelompok": "12",
+    "Kamar": "Jalak Bali-2-214"
+  },
+  {
+    "Name": "Freddy Albert Sanjaya",
+    "Kelompok": "16",
+    "Kamar": "Kutilang-2-207"
+  },
+  {
+    "Name": "Pavel Bondar",
+    "Kelompok": "13",
+    "Kamar": "Kutilang-2-211"
+  },
+  {
+    "Name": "Franzeska",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-204"
+  },
+  {
+    "Name": "Brigitta Michelle",
+    "Kelompok": "04",
+    "Kamar": "Cendrawasih-1-111"
+  },
+  {
+    "Name": "Stephanie Nathalia",
+    "Kelompok": "06",
+    "Kamar": "Manyar-1-119"
+  },
+  {
+    "Name": "Juan Fredrick Pandia",
+    "Kelompok": "14",
+    "Kamar": "Jalak Bali-2-215"
+  },
+  {
+    "Name": "Devi Mangngi Ie",
+    "Kelompok": "11",
+    "Kamar": "Kutilang-2-205"
+  },
+  {
+    "Name": "Ribka Amanda",
+    "Kelompok": "10",
+    "Kamar": "Cendrawasih-1-103"
+  },
+  {
+    "Name": "Johanna Kaspar",
+    "Kelompok": "03",
+    "Kamar": "Manyar-1-121"
+  },
+  {
+    "Name": "Yesus Cinta Leejuyo",
+    "Kelompok": "16",
+    "Kamar": "Jalak Bali-2-217"
+  },
+  {
+    "Name": "Christian Saputra",
+    "Kelompok": "12",
+    "Kamar": "Jalak Bali-2-213"
+  },
+  {
+    "Name": "Daniella Stefani",
+    "Kelompok": "04",
+    "Kamar": "Cendrawasih-1-111"
+  },
+  {
+    "Name": "Larissa",
+    "Kelompok": "01",
+    "Kamar": "Cendrawasih-1-106"
+  },
+  {
+    "Name": "Henrico",
+    "Kelompok": "15",
+    "Kamar": "Kutilang-2-206"
+  },
+  {
+    "Name": "Eugenia Isadora",
+    "Kelompok": "01",
+    "Kamar": "Cendrawasih-1-106"
+  },
+  {
+    "Name": "Alexander Marco",
+    "Kelompok": "13",
+    "Kamar": "Kutilang-2-211"
+  },
+  {
+    "Name": "Brigita Puji Lestari",
+    "Kelompok": "05",
+    "Kamar": "Manyar-1-123"
+  },
+  {
+    "Name": "Lukman",
+    "Kelompok": "13",
+    "Kamar": "Kutilang-2-208"
+  },
+  {
+    "Name": "Tasya Malinda",
+    "Kelompok": "06",
+    "Kamar": "Manyar-1-120"
+  },
+  {
+    "Name": "Kevin Riady",
+    "Kelompok": "14",
+    "Kamar": "Jalak Bali-2-215"
+  },
+  {
+    "Name": "Gabriela",
+    "Kelompok": "05",
+    "Kamar": "Manyar-1-117"
+  },
+  {
+    "Name": "Vincentia Robin",
+    "Kelompok": "04",
+    "Kamar": "Cendrawasih-1-111"
+  },
+  {
+    "Name": "Maria Thresa Stefania Diana T.K",
+    "Kelompok": "07",
+    "Kamar": "Manyar-1-116"
+  },
+  {
+    "Name": "Elizabet Devi Permatasari",
+    "Kelompok": "11",
+    "Kamar": "Kutilang-2-210"
+  },
+  {
+    "Name": "Budiarto Hutomo Salim",
+    "Kelompok": "16",
+    "Kamar": "Kutilang-2-212"
+  },
+  {
+    "Name": "Erick",
+    "Kelompok": "13",
+    "Kamar": "Kutilang-2-211"
+  },
+  {
+    "Name": "Gretta Gracesia",
+    "Kelompok": "01",
+    "Kamar": "Cendrawasih-1-107"
+  },
+  {
+    "Name": "Hanny Marsella",
+    "Kelompok": "05",
+    "Kamar": "Manyar-1-124"
+  },
+  {
+    "Name": "Ferdian Tandinata",
+    "Kelompok": "15",
+    "Kamar": "Jalak Bali-2-216"
+  },
+  {
+    "Name": "Elizabeth Nessia karenina",
+    "Kelompok": "07",
+    "Kamar": "Manyar-1-116"
+  },
+  {
+    "Name": "CARREN RENATA LEEVANA",
+    "Kelompok": "05",
+    "Kamar": "Manyar-1-123"
+  },
+  {
+    "Name": "Bernadette Adeline",
+    "Kelompok": "09",
+    "Kamar": "Cendrawasih-1-106"
+  },
+  {
+    "Name": "Irene Wijaya Wie",
+    "Kelompok": "09",
+    "Kamar": "Cendrawasih-1-105"
+  },
+  {
+    "Name": "Angelika Paula Sorika Lestari",
+    "Kelompok": "08",
+    "Kamar": "Manyar-1-118"
+  },
+  {
+    "Name": "Zita Yustina Jennifer",
+    "Kelompok": "07",
+    "Kamar": "Kutilang-2-209"
+  },
+  {
+    "Name": "Yosephine Adela Djohan",
+    "Kelompok": "09",
+    "Kamar": "Cendrawasih-1-106"
+  },
+  {
+    "Name": "DANIEL DEGEI",
+    "Kelompok": "",
+    "Kamar": ""
+  },
+  {
+    "Name": "VincentiusLorenzoberchmanGunawan",
+    "Kelompok": "12",
+    "Kamar": "Jalak Bali-2-213"
+  },
+  {
+    "Name": "Fransiska Xaveria Aryani",
+    "Kelompok": "08",
+    "Kamar": "Manyar-1-117"
+  },
+  {
+    "Name": "Maria Antonia Wilhelmina",
+    "Kelompok": "11",
+    "Kamar": "Kutilang-2-210"
+  },
+  {
+    "Name": "Valentina Ernawati Panjaitan",
+    "Kelompok": "04",
+    "Kamar": "Cendrawasih-1-112"
+  },
+  {
+    "Name": "GABRIELLE EKA PUTRI",
+    "Kelompok": "05",
+    "Kamar": "Manyar-1-124"
+  },
+  {
+    "Name": "Felicia Herman",
+    "Kelompok": "04",
+    "Kamar": "Cendrawasih-1-112"
+  },
+  {
+    "Name": "Michelle Yubeline",
+    "Kelompok": "01",
+    "Kamar": "Cendrawasih-1-107"
+  },
+  {
+    "Name": "Irma Culata Nika Riangtobi",
+    "Kelompok": "06",
+    "Kamar": "Manyar-1-119"
+  },
+  {
+    "Name": "Agnes Sulistiyoningsih",
+    "Kelompok": "09",
+    "Kamar": "Cendrawasih-1-105"
+  },
+  {
+    "Name": "Marissa Silalahi",
+    "Kelompok": "10",
+    "Kamar": "Cendrawasih-1-104"
+  },
+  {
+    "Name": "Guretti Marbun",
+    "Kelompok": "02",
+    "Kamar": "Cendrawasih-1-110"
+  },
+  {
+    "Name": "Veronica Puji Lestari",
+    "Kelompok": "08",
+    "Kamar": "Manyar-1-118"
+  },
+  {
+    "Name": "Guretta Marbun",
+    "Kelompok": "07",
+    "Kamar": "Kutilang-2-209"
+  },
+  {
+    "Name": "Eben Ezer",
+    "Kelompok": "13",
+    "Kamar": "Kutilang-2-211"
+  },
+  {
+    "Name": "Raymond fernando",
+    "Kelompok": "16",
+    "Kamar": "Kutilang-2-212"
+  },
+  {
+    "Name": "Shieren",
+    "Kelompok": "",
+    "Kamar": ""
+  },
+  {
+    "Name": "Laurensia Angela Patty",
+    "Kelompok": "09",
+    "Kamar": "Cendrawasih-1-105"
+  },
+  {
+    "Name": "Shirley herlin febrianti",
+    "Kelompok": "",
+    "Kamar": ""
+  },
+  {
+    "Name": "Benny Sanjaya",
+    "Kelompok": "15",
+    "Kamar": "Jalak Bali-2-216"
+  },
+  {
+    "Name": "Tiara Munthe",
+    "Kelompok": "04",
+    "Kamar": "Cendrawasih-1-112"
+  },
+  {
+    "Name": "Apriyani",
+    "Kelompok": "06",
+    "Kamar": "Manyar-1-120"
+  },
+  {
+    "Name": "Kevianus Setiawan",
+    "Kelompok": "12",
+    "Kamar": "Jalak Bali-2-214"
+  },
+  {
+    "Name": "Kesya Sunjoyo",
+    "Kelompok": "11",
+    "Kamar": "Kutilang-2-210"
+  },
+  {
+    "Name": "Angela Jovita Listyarini",
+    "Kelompok": "09",
+    "Kamar": "Cendrawasih-1-106"
+  },
+  {
+    "Name": "Katarina Theresia",
+    "Kelompok": "10",
+    "Kamar": "Cendrawasih-1-103"
+  },
+  {
+    "Name": "Karyn Sunjoyo",
+    "Kelompok": "01",
+    "Kamar": "Cendrawasih-1-106"
+  },
+  {
+    "Name": "Isabel erlina",
+    "Kelompok": "02",
+    "Kamar": "Cendrawasih-1-109"
+  },
+  {
+    "Name": "Vanessa Debora",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-204"
+  },
+  {
+    "Name": "Ivana Sari",
+    "Kelompok": "07",
+    "Kamar": "Kutilang-2-209"
+  },
+  {
+    "Name": "Christabel Aileen",
+    "Kelompok": "11",
+    "Kamar": "Kutilang-2-210"
+  },
+  {
+    "Name": "Dea Kusuma Andhika",
+    "Kelompok": "02",
+    "Kamar": "Cendrawasih-1-109"
+  },
+  {
+    "Name": "Foriansyah",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-206"
+  },
+  {
+    "Name": "Ernest Poniran",
+    "Kelompok": "12",
+    "Kamar": "Jalak Bali-2-213"
+  },
+  {
+    "Name": "Lusia Agustiane",
+    "Kelompok": "06",
+    "Kamar": "Manyar-1-119"
+  },
+  {
+    "Name": "Rudy Theios",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-115"
+  },
+  {
+    "Name": "Mira Fujita Dhamayanti Putri",
+    "Kelompok": "03",
+    "Kamar": "Manyar-1-122"
+  },
+  {
+    "Name": "Yanti kania",
+    "Kelompok": "11",
+    "Kamar": "Kutilang-2-205"
+  },
+  {
+    "Name": "Ari Delista",
+    "Kelompok": "14",
+    "Kamar": "Kutilang-2-208"
+  },
+  {
+    "Name": "Thalia Dewiyanti",
+    "Kelompok": "07",
+    "Kamar": "Manyar-1-116"
+  },
+  {
+    "Name": "Yunita",
+    "Kelompok": "08",
+    "Kamar": "Manyar-1-117"
+  },
+  {
+    "Name": "Dewi Lanita Sari",
+    "Kelompok": "02",
+    "Kamar": "Cendrawasih-1-110"
+  },
+  {
+    "Name": "Veranica Widjianto",
+    "Kelompok": "10",
+    "Kamar": "Cendrawasih-1-104"
+  },
+  {
+    "Name": "paulus bima",
+    "Kelompok": "15",
+    "Kamar": "Jalak Bali-2-216"
+  },
+  {
+    "Name": "Maria Ivo",
+    "Kelompok": "02",
+    "Kamar": "Cendrawasih-1-109"
+  },
+  {
+    "Name": "Ci Jen",
+    "Kelompok": "",
+    "Kamar": "Cendrawasih-1-101"
+  },
+  {
+    "Name": "Ko Zuky",
+    "Kelompok": "",
+    "Kamar": "Cendrawasih-1-101"
+  },
+  {
+    "Name": "Ci Cathy",
+    "Kelompok": "",
+    "Kamar": "Cendrawasih-1-102"
+  },
+  {
+    "Name": "Ci Sekar",
+    "Kelompok": "",
+    "Kamar": "Cendrawasih-1-102"
+  },
+  {
+    "Name": "Om Urip",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-113"
+  },
+  {
+    "Name": "Tante Widya",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-113"
+  },
+  {
+    "Name": "Om Hendra",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-114"
+  },
+  {
+    "Name": "Tante Lily",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-114"
+  },
+  {
+    "Name": "Ko Rudy",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-115"
+  },
+  {
+    "Name": "Om Nes",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-115"
+  },
+  {
+    "Name": "Ko Benny",
+    "Kelompok": "",
+    "Kamar": "Manyar-1-115"
+  },
+  {
+    "Name": "Om Ben",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-201"
+  },
+  {
+    "Name": "Bundo Ning",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-201"
+  },
+  {
+    "Name": "Ci Vivi",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-202"
+  },
+  {
+    "Name": "Ci Wenny",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-202"
+  },
+  {
+    "Name": "Romo Puspo",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-203"
+  },
+  {
+    "Name": "Romo Juju",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-203"
+  },
+  {
+    "Name": "Lisa Stefanny",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-205"
+  },
+  {
+    "Name": "Ko Willy",
+    "Kelompok": "",
+    "Kamar": "Kutilang-2-207"
+  }
 ]
