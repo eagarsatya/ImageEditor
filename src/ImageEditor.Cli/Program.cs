@@ -27,7 +27,7 @@ app.Configure(config =>
 
 try
 {
-    return app.Run(args);
+    
 }
 catch (Exception ex)
 {
