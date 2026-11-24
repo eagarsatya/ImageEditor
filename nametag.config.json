@@ -1,0 +1,25 @@
+{
+  "Name": "PLB Nametag Default",
+  "TemplateImagePath": "BaseImage/PLB Nametag.png",
+  "OutputDirectory": "BaseImage/Result",
+  "FontFamily": "Segoe UI",
+  "FontFilePath": null,
+  "FontSize": 75,
+  "MinFontSize": 32,
+  "FontBold": true,
+  "TextColor": "#000000",
+  "MaxTextWidthRatio": 0.85,
+  "NameMaxWords": 2,
+  "ApplyTitleCase": true,
+  "KelompokPrefix": "Kel - ",
+  "ShowKamarWhenNoKelompok": false,
+  "OrganizeByKelompok": false,
+  "OverwriteExisting": true,
+  "Layout": {
+    "XRatio": 0.5,
+    "NameY": 800,
+    "NameOnlyY": 925,
+    "KelompokY": 925,
+    "KamarY": 1050
+  }
+}

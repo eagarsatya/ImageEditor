@@ -1,9 +1,13 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEditor", "ImageEditor.csproj", "{83D411CD-0435-4FF6-8431-A4AD89B6FE00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageEditor.Cli", "src\ImageEditor.Cli\ImageEditor.Cli.csproj", "{83D411CD-0435-4FF6-8431-A4AD89B6FE00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageEditor.Core", "src\ImageEditor.Core\ImageEditor.Core.csproj", "{A92C9B22-6D6A-4A5E-9F11-4E9D2D4E1B01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageEditor.Core.Tests", "tests\ImageEditor.Core.Tests\ImageEditor.Core.Tests.csproj", "{C41F8E33-8A1B-4C7D-B223-7F6A8C5D2E02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{83D411CD-0435-4FF6-8431-A4AD89B6FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D411CD-0435-4FF6-8431-A4AD89B6FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D411CD-0435-4FF6-8431-A4AD89B6FE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92C9B22-6D6A-4A5E-9F11-4E9D2D4E1B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92C9B22-6D6A-4A5E-9F11-4E9D2D4E1B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92C9B22-6D6A-4A5E-9F11-4E9D2D4E1B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92C9B22-6D6A-4A5E-9F11-4E9D2D4E1B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41F8E33-8A1B-4C7D-B223-7F6A8C5D2E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41F8E33-8A1B-4C7D-B223-7F6A8C5D2E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41F8E33-8A1B-4C7D-B223-7F6A8C5D2E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41F8E33-8A1B-4C7D-B223-7F6A8C5D2E02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
