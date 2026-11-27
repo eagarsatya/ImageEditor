@@ -1,6 +1,6 @@
 # ImageEditor — Nametag Generator
 
-A user-friendly `.NET 8` interactive TUI & CLI tool for batch-generating event nametag PNGs from **JSON**, **CSV**, or **Excel (`.xlsx`)** attendee lists.
+A user-friendly `.NET 10` interactive TUI & CLI tool for batch-generating event nametag PNGs from **JSON**, **CSV**, or **Excel (`.xlsx`)** attendee lists.
 
 ## Features
 
